@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "ndef": "^0.2.0",
     "nfc-pcsc": "^0.8.1"
   }
 }
